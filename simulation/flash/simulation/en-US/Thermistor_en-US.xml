@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="Thermistor.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_ALPHA">
+        <source>alpha, α =</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CHOOSETHERMISTOR">
+        <source>Choose Thermistor:</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CIRCUITDIG">
+        <source>Show Circuit Diagram</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_POWERON">
+        <source>Power On</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_SHOWGRAPH">
+        <source>Show Graph</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_SHOWRESULT">
+        <source>Show Result</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TEMP1">
+        <source>Temperature:</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_THERMISTOR1">
+        <source>Thermistor 1</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_THERMISTOR2">
+        <source>Thermistor 2</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_THERMISTOR3">
+        <source>Thermistor 3</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_THERMISTOR4">
+        <source>Thermistor 4</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_VOLT1">
+        <source>Voltage:</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

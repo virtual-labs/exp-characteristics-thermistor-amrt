@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "Thermistor is",
+      "answers": {
+        "a": "A ceramic semiconductor",
+        "b": "An insulator",
+        "c": "A conductor",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Thermistors are made of ceramic semiconductor materials.",
+        "b": "Incorrect – thermistors are not insulators.",
+        "c": "Incorrect – while they conduct, they are semiconductors.",
+        "d": "Incorrect – there is a correct option."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Regarding Negative Temperature Coefficient (NTC) thermistor, choose the correct one",
+      "answers": {
+        "a": "Resistance decreases with increase in temperature.",
+        "b": "Resistance increases with increase in temperature.",
+        "c": "Independent of temperature.",
+        "d": "None of these."
+      },
+      "explanations": {
+        "a": "NTC thermistors show a decrease in resistance as temperature rises.",
+        "b": "This behavior is typical of PTC thermistors, not NTC.",
+        "c": "Incorrect – NTC thermistors are temperature-dependent.",
+        "d": "Incorrect – there is a correct option."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Regarding Positive Temperature Coefficient (PTC) thermistor, choose the correct one",
+      "answers": {
+        "a": "Resistance decreases with increase in temperature.",
+        "b": "Independent of temperature.",
+        "c": "Resistance increases with increase in temperature.",
+        "d": "None of these."
+      },
+      "explanations": {
+        "a": "Incorrect – this is behavior of NTC thermistors.",
+        "b": "Incorrect – PTC thermistors are temperature-dependent.",
+        "c": "Correct – PTC thermistors show increasing resistance with temperature.",
+        "d": "Incorrect – there is a correct option."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
