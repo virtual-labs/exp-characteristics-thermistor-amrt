@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "Thermistor is",
+      "answers": {
+        "a": "A ceramic semiconductor",
+        "b": "An insulator",
+        "c": "A conductor",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Thermistors are made of ceramic semiconductor materials.",
+        "b": "Incorrect – thermistors are not insulators.",
+        "c": "Incorrect – while they conduct, they are semiconductors.",
+        "d": "Incorrect – there is a correct option."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Regarding Negative Temperature Coefficient (NTC) thermistor, choose the correct one",
+      "answers": {
+        "a": "Resistance decreases with increase in temperature.",
+        "b": "Resistance increases with increase in temperature.",
+        "c": "Independent of temperature.",
+        "d": "None of these."
+      },
+      "explanations": {
+        "a": "NTC thermistors show a decrease in resistance as temperature rises.",
+        "b": "This behavior is typical of PTC thermistors, not NTC.",
+        "c": "Incorrect – NTC thermistors are temperature-dependent.",
+        "d": "Incorrect – there is a correct option."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Regarding Positive Temperature Coefficient (PTC) thermistor, choose the correct one",
+      "answers": {
+        "a": "Resistance decreases with increase in temperature.",
+        "b": "Independent of temperature.",
+        "c": "Resistance increases with increase in temperature.",
+        "d": "None of these."
+      },
+      "explanations": {
+        "a": "Incorrect – this is behavior of NTC thermistors.",
+        "b": "Incorrect – PTC thermistors are temperature-dependent.",
+        "c": "Correct – PTC thermistors show increasing resistance with temperature.",
+        "d": "Incorrect – there is a correct option."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "log R vs 1/T characteristics of thermistor is",
+      "answers": {
+        "a": "Linear",
+        "b": "Straight line parallel to x or y axis",
+        "c": "Non linear",
+        "d": "Parabola"
+      },
+      "explanations": {
+        "a": "Correct – the relationship is linear for many thermistors.",
+        "b": "Incorrect – it forms a line with a slope, not horizontal/vertical.",
+        "c": "Incorrect – it's approximately linear over certain ranges.",
+        "d": "Incorrect – the relationship is not quadratic."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the relation between α and β for a thermistor?",
+      "answers": {
+        "a": "β = -α / T²",
+        "b": "α = β / T²",
+        "c": "α = -β / T²",
+        "d": "β = α / T²"
+      },
+      "explanations": {
+        "a": "Incorrect – rearranged wrongly.",
+        "b": "Incorrect – sign is incorrect.",
+        "c": "Correct – this is the known relationship.",
+        "d": "Incorrect – inverted form with wrong sign."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Electrical resistance of a thermistor as a function of temperature is given by",
+      "answers": {
+        "a": "$R = R_0 \\exp(\\alpha (\\frac{1}{T} - \\frac{1}{T_0}))$",
+        "b": "$R = \\beta T$",
+        "c": "$R = \\alpha T$",
+        "d": "$R = R_0 \\exp(\\beta (\\frac{1}{T} - \\frac{1}{T_0}))$"
+      },
+      "explanations": {
+        "a": "Incorrect – correct form uses β, not α.",
+        "b": "Incorrect – oversimplified linear form.",
+        "c": "Incorrect – same as (b), does not reflect exponential behavior.",
+        "d": "Correct – this is the standard thermistor equation."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
